@@ -1,0 +1,7 @@
+@import './variables.scss';
+
+#app-#{$style-version} {
+    .content-component {
+        background-color: pink;
+    }
+}
